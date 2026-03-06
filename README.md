@@ -24,8 +24,8 @@ const ayaan = {
   role: "Software Developer & B.Tech Student",
   location: "Pune, India 🇮🇳",
   education: "B.Tech — Computer Science",
-  interests: ["Web Development", "Cloud", "APIs", "Open Source"],
-  currentlyLearning: ["Cloud Architecture", "System Design", "DevOps"],
+  interests: ["Web Development", "APIs", "Open Source"],
+  currentlyLearning: ["Backend Development", "AWS", "DevOps", "Docker"],
   funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
@@ -44,22 +44,27 @@ const ayaan = {
 **Backend & Languages**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-
-**Database & Cloud**
+**Database & Tools**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-FF6C37?style=flat-square&logo=azuredevops&logoColor=white)
+![Backend Dev](https://img.shields.io/badge/Backend%20Development-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+> Building towards full-stack + cloud — one commit at a time 🚀
 
 ---
 
@@ -91,11 +96,11 @@ const ayaan = {
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Graph
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=AyaanPathan-codes&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaanPathan-codes&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
