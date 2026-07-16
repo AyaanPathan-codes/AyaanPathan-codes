@@ -68,37 +68,3 @@ const ayaan = {
 
 > Building towards full-stack + cloud — one commit at a time 🚀
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🗺️ [**WayFare-AI**](https://github.com/AyaanPathan-codes/WayFare-AI) | AI-powered travel and navigation assistant | JavaScript |
-| 💬 [**RealTime Chat App**](https://github.com/AyaanPathan-codes/realTimeChat-app) | Live messaging app with real-time communication | JavaScript |
-| 🎯 [**Motion Tracker**](https://github.com/AyaanPathan-codes/motion-tracker-react) | React-based motion tracking application | React |
-| 💜 [**Rhythms**](https://github.com/AyaanPathan-codes/rhythms) | "Support and Healing, Without Boundaries" | CSS |
-
----
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaanPathan-codes&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
-
-</div>
-
-<div align="center">
-  <i>⭐ Star some repos if you find them useful — it means a lot!</i>
-</div>
