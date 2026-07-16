@@ -28,7 +28,6 @@ const ayaan = {
     "Backend Development",
     "AI Agents",
     "Cloud Computing",
-    "Open Source"
   ],
   currentlyLearning: [
     "Agentic AI",
