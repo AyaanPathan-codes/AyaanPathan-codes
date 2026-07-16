@@ -31,7 +31,6 @@ const ayaan = {
     "Open Source"
   ],
   currentlyLearning: [
-    "Spring Security",
     "Agentic AI",
     "AWS",
     "Docker",
